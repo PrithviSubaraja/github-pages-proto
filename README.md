@@ -1,2 +1,2 @@
 # github-pages-proto
-Prototype repo for github pages w/ jerkyll
+Prototype repo for github pages w/ jekyll
